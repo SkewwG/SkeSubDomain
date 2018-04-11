@@ -1,0 +1,148 @@
+{'code': 200, 'title': '腾讯首页', 'url': 'http://www.qq.com'}
+{'code': 403, 'title': '403 Forbidden', 'url': 'http://baojia.auto.qq.com'}
+{'code': 200, 'title': 'QQ输入法', 'url': 'http://py.qq.com'}
+{'code': 200, 'title': 'QQ秀 - 释放我不凡', 'url': 'http://show.qq.com'}
+{'code': 200, 'title': 'QQ空间-分享生活，留住感动', 'url': 'http://imgcache.qq.com'}
+{'code': 200, 'title': '官方Qzone [http://qzone.qzone.qq.com]', 'url': 'http://qzone.qzone.qq.com'}
+{'code': 404, 'title': 'None', 'url': 'http://p1.qzone.qq.com'}
+{'code': 404, 'title': 'None', 'url': 'http://feeds.qzone.qq.com'}
+{'code': 200, 'title': '腾讯课堂_专业的在线教育平台(ke.qq.com)', 'url': 'https://ke.qq.com'}
+{'code': 200, 'title': '腾讯产品交流', 'url': 'http://support.qq.com'}
+{'code': 404, 'title': 'None', 'url': 'https://pingjs.qq.com'}
+{'code': 200, 'title': 'QQ空间-分享生活，留住感动', 'url': 'https://imgcache.qq.com'}
+{'code': 404, 'title': 'None', 'url': 'http://isdspeed.qq.com'}
+{'code': 200, 'title': '腾讯微博_你的心声，世界的回声', 'url': 'http://t.qq.com'}
+{'code': 500, 'title': 'Error', 'url': 'http://btrace.qq.com'}
+{'code': 200, 'title': '腾讯微博_你的心声，世界的回声', 'url': 'http://p.t.qq.com'}
+{'code': 200, 'title': '腾讯客服官网首页', 'url': 'http://service.qq.com'}
+{'code': 200, 'title': '腾讯体验中心', 'url': 'http://exp.qq.com'}
+{'code': 200, 'title': '腾讯问卷 - 免费好用的问卷调查系统,调查问卷,免费,简单,模板', 'url': 'http://wj.qq.com'}
+{'code': 200, 'title': 'QQ推广', 'url': 'http://shang.qq.com'}
+{'code': 200, 'title': '腾讯社交广告', 'url': 'http://e.qq.com'}
+{'code': 200, 'title': 'None', 'url': 'https://a.gdt.qq.com'}
+{'code': 200, 'title': 'None', 'url': 'http://tajs.qq.com'}
+{'code': 200, 'title': '腾讯问卷 - 免费好用的问卷调查系统,调查问卷,免费,简单,模板', 'url': 'https://wj.qq.com'}
+{'code': 200, 'title': '腾讯产品交流', 'url': 'https://support.qq.com'}
+{'code': 200, 'title': 'None', 'url': 'https://tajs.qq.com'}
+{'code': 404, 'title': 'None', 'url': 'http://pingjs.qq.com'}
+{'code': 200, 'title': '当前体验-腾讯体验中心', 'url': 'http://m.exp.qq.com'}
+{'code': 404, 'title': 'None', 'url': 'http://ui.ptlogin2.qq.com'}
+{'code': 404, 'title': '404 Not Found', 'url': 'http://cdn.exp.qq.com'}
+{'code': 200, 'title': '腾讯客服官网首页', 'url': 'http://kf.qq.com'}
+{'code': 200, 'title': '腾讯安全服务平台-帐号安全、QQ/微信诈骗举报受理综合服务平台', 'url': 'http://110.qq.com'}
+{'code': 200, 'title': '手机杀毒_手机安全_安全管家_体检加速_腾讯手机管家官方网站', 'url': 'https://m.qq.com'}
+{'code': 200, 'title': '腾讯御安全 - APP加固|安卓加固|应用加固|android防破解反编译- 腾讯旗下移动应用安全保护平台', 'url': 'http://yaq.qq.com'}
+{'code': 200, 'title': '腾讯公益', 'url': 'http://gongyi.qq.com'}
+{'code': 404, 'title': 'None', 'url': 'http://yundonate.gongyi.qq.com'}
+{'code': 200, 'title': '腾讯思享会_腾讯文化_腾讯网', 'url': 'http://thinker.qq.com'}
+{'code': 200, 'title': '新闻中心_腾讯网', 'url': 'http://news.qq.com'}
+{'code': 200, 'title': '今日话题_首页_腾讯网', 'url': 'http://view.qq.com'}
+{'code': 200, 'title': '短史记_腾讯历史_腾讯网', 'url': 'http://history.qq.com'}
+{'code': 200, 'title': '腾讯微博_你的心声，世界的回声', 'url': 'http://e.t.qq.com'}
+{'code': 404, 'title': 'None', 'url': 'https://xui.ptlogin2.qq.com'}
+{'code': 200, 'title': 'QQ空间-分享生活，留住感动', 'url': 'http://qzone.qq.com'}
+{'code': 200, 'title': 'QQ互联官网首页', 'url': 'http://connect.qq.com'}
+{'code': 200, 'title': 'None', 'url': 'https://ar.qq.com'}
+{'code': 200, 'title': 'None', 'url': 'http://sqimg.qq.com'}
+{'code': 200, 'title': '腾讯开放平台|众创空间', 'url': 'http://open.qq.com'}
+{'code': 200, 'title': '腾讯众创空间-双百计划', 'url': 'http://vc.open.qq.com'}
+{'code': 200, 'title': '腾讯开放平台|众创空间', 'url': 'http://zc.open.qq.com'}
+{'code': 200, 'title': '微信支付 - 中国领先的第三方支付平台 ｜ 微信支付提供安全快捷的支付方式', 'url': 'https://pay.weixin.qq.com'}
+{'code': 200, 'title': '微信，是一个生活方式', 'url': 'http://weixin.qq.com'}
+{'code': 200, 'title': '  微信 Mac 版  ', 'url': 'https://mac.weixin.qq.com'}
+{'code': 200, 'title': '微信网页版', 'url': 'https://wx.qq.com'}
+{'code': 404, 'title': 'None', 'url': 'https://js.aq.qq.com'}
+{'code': 200, 'title': '微信网页版', 'url': 'https://login.weixin.qq.com'}
+{'code': 200, 'title': '微信公众平台', 'url': 'http://mp.weixin.qq.com'}
+{'code': 200, 'title': 'None', 'url': 'https://res.wx.qq.com'}
+{'code': 200, 'title': '腾讯客服官网首页', 'url': 'https://kf.qq.com'}
+{'code': 403, 'title': '403 Forbidden', 'url': 'http://crm2.qq.com'}
+{'code': 200, 'title': 'ĺžŽäżĄĺ\x85Źäź\x97ĺšłĺ\x8f° ĺź\x80ĺ\x8f\x91č\x80\x85ç¤žĺ\x8cş', 'url': 'http://developers.weixin.qq.com'}
+{'code': 200, 'title': '微信公众平台', 'url': 'https://mp.weixin.qq.com'}
+{'code': 200, 'title': '企业微信', 'url': 'https://work.weixin.qq.com'}
+{'code': 403, 'title': '403 Forbidden', 'url': 'https://res.mail.qq.com'}
+{'code': 200, 'title': '企业微信服务商官网', 'url': 'https://open.work.weixin.qq.com'}
+{'code': 200, 'title': '首页 | 腾讯大学', 'url': 'http://daxue.qq.com'}
+{'code': 200, 'title': '腾讯课堂_专业的在线教育平台(ke.qq.com)', 'url': 'http://ke.qq.com'}
+{'code': 200, 'title': 'None', 'url': 'http://3gimg.qq.com'}
+{'code': 200, 'title': '腾讯Bugly - 一种愉悦的开发方式 _android anr_android anr分析_iOS崩溃日志分析平台', 'url': 'http://bugly.qq.com'}
+{'code': 200, 'title': '腾讯Bugly - 一种愉悦的开发方式 _android anr_android anr分析_iOS崩溃日志分析平台', 'url': 'https://bugly.qq.com'}
+{'code': 200, 'title': 'Gad腾讯游戏开发者平台', 'url': 'http://gad.qq.com'}
+{'code': 200, 'title': '科技频道_腾讯网', 'url': 'http://tech.qq.com'}
+{'code': 200, 'title': 'None', 'url': 'http://xw.qq.com'}
+{'code': 200, 'title': '登录QQ邮箱', 'url': 'http://mail.qq.com'}
+{'code': 200, 'title': 'None', 'url': 'http://w.mail.qq.com'}
+{'code': 200, 'title': 'None', 'url': 'https://w.mail.qq.com'}
+{'code': 200, 'title': 'QQ邮箱帮助中心', 'url': 'http://service.mail.qq.com'}
+{'code': 404, 'title': 'None', 'url': 'https://rl.mail.qq.com'}
+{'code': 200, 'title': '腾讯企业邮箱 - 直达企业微信，一体化办公体验', 'url': 'http://exmail.qq.com'}
+{'code': 200, 'title': '腾讯企业邮箱 - 直达企业微信，一体化办公体验', 'url': 'https://exmail.qq.com'}
+{'code': 200, 'title': 'None', 'url': 'http://service.exmail.qq.com'}
+{'code': 200, 'title': '腾讯首页', 'url': 'https://ssl.ptlogin2.qq.com'}
+{'code': 200, 'title': '腾讯视频-中国领先的在线视频媒体平台,海量高清视频在线观看', 'url': 'https://v.qq.com'}
+{'code': 200, 'title': '腾讯视频VIP会员-腾讯视频', 'url': 'https://film.qq.com'}
+{'code': 200, 'title': '腾讯拍客学院首页_腾讯新闻_腾讯网', 'url': 'http://paike.qq.com'}
+{'code': 200, 'title': '腾讯・大渝网 - 重庆城市生活第一门户', 'url': 'http://cq.qq.com'}
+{'code': 200, 'title': '腾讯・大秦网―陕西城市生活主流媒体', 'url': 'http://xian.qq.com'}
+{'code': 200, 'title': '腾讯・大闽网 - 福建生活门户', 'url': 'http://fj.qq.com'}
+{'code': 200, 'title': '泉州车市_泉州行情_车市降价_汽车报价_腾讯汽车泉州站_腾讯汽车', 'url': 'http://quanzhou.auto.qq.com'}
+{'code': 200, 'title': '张家口车市_张家口行情_车市降价_汽车报价_腾讯汽车张家口_腾讯汽车', 'url': 'http://zjk.auto.qq.com'}
+{'title': '腾讯首页', 'code': 200, 'url': 'http://www.qq.com'}
+{'title': '手机杀毒_手机安全_安全管家_体检加速_腾讯手机管家官方网站', 'code': 200, 'url': 'http://m.qq.com'}
+{'title': '腾讯安全服务平台-帐号安全、QQ/微信诈骗举报受理综合服务平台', 'code': 200, 'url': 'https://110.qq.com'}
+{'url': 'http://www.qq.com', 'title': '腾讯首页', 'code': 200}
+{'url': 'http://dajia.qq.com', 'title': '首页-腾讯大家', 'code': 200}
+{'url': 'http://mini.t.qq.com', 'title': '403 Forbidden', 'code': 403}
+{'url': 'http://ui.ptlogin2.qq.com', 'title': 'None', 'code': 404}
+{'url': 'https://ui.ptlogin2.qq.com', 'title': 'None', 'code': 404}
+{'url': 'http://qfwd.qq.com', 'title': 'None', 'code': 200}
+{'url': 'http://t.qq.com', 'title': '腾讯微博_你的心声，世界的回声', 'code': 200}
+{'url': 'http://vip.t.qq.com', 'title': '微博会员', 'code': 200}
+{'url': 'http://p.t.qq.com', 'title': '腾讯微博_你的心声，世界的回声', 'code': 200}
+{'title': '腾讯首页', 'code': 200, 'url': 'http://www.qq.com'}
+{'title': '腾讯首页', 'url': 'http://www.qq.com', 'code': 200}
+{'title': 'Document', 'url': 'http://d.automall.qq.com', 'code': 500}
+{'title': '腾讯首页', 'url': 'http://www.qq.com', 'code': 200}
+{'title': 'QQ飞车官网 QQ飞车官方网站-腾讯游戏-竞速网游王者 突破300万同时在线', 'url': 'http://speed.qq.com', 'code': 200}
+{'title': 'None', 'url': 'http://ossweb-img.qq.com', 'code': 200}
+{'title': 'None', 'url': 'http://down.qq.com', 'code': 401}
+{'title': '教育频道_腾讯网', 'url': 'http://edu.qq.com', 'code': 200}
+{'title': '腾讯&middot;大燕网北京站', 'url': 'http://bj.jjj.qq.com', 'code': 200}
+{'title': '登录QQ邮箱', 'url': 'http://mail.qq.com', 'code': 200}
+{'title': '腾讯产品交流', 'url': 'http://support.qq.com', 'code': 200}
+{'title': 'None', 'url': 'https://tajs.qq.com', 'code': 200}
+{'title': 'None', 'url': 'https://pingjs.qq.com', 'code': 404}
+{'title': '腾讯产品交流', 'url': 'https://support.qq.com', 'code': 200}
+{'title': 'QQ空间-分享生活，留住感动', 'url': 'https://imgcache.qq.com', 'code': 200}
+{'title': 'QQ空间-分享生活，留住感动', 'url': 'http://qzs.qq.com', 'code': 200}
+{'title': 'None', 'url': 'http://ui.ptlogin2.qq.com', 'code': 404}
+{'title': 'None', 'url': 'http://my.qzone.qq.com', 'code': 404}
+{'title': 'None', 'url': 'http://pingfore.qq.com', 'code': 200}
+{'title': '腾讯首页', 'url': 'http://www.qq.com', 'code': 200}
+{'title': '火影引导页-火影忍者Online官方网站 - 腾讯游戏', 'url': 'http://huoying.qq.com', 'code': 200}
+{'title': 'None', 'url': 'http://ossweb-img.qq.com', 'code': 200}
+{'title': 'None', 'url': 'http://pingjs.qq.com', 'code': 404}
+{'title': '健康频道_腾讯网', 'url': 'http://health.qq.com', 'code': 200}
+{'title': '腾讯客服官网首页', 'url': 'http://service.qq.com', 'code': 200}
+{'title': '腾讯体验中心', 'url': 'http://exp.qq.com', 'code': 200}
+{'title': '404 Not Found', 'url': 'http://cdn.exp.qq.com', 'code': 404}
+{'title': 'None', 'url': 'http://tajs.qq.com', 'code': 200}
+{'title': '腾讯问卷 - 免费好用的问卷调查系统,调查问卷,免费,简单,模板', 'url': 'http://wj.qq.com', 'code': 200}
+{'title': '腾讯问卷 - 免费好用的问卷调查系统,调查问卷,免费,简单,模板', 'url': 'https://wj.qq.com', 'code': 200}
+{'title': 'QQ推广', 'url': 'http://shang.qq.com', 'code': 200}
+{'title': 'None', 'url': 'https://ui.ptlogin2.qq.com', 'code': 404}
+{'title': '腾讯社交广告', 'url': 'http://e.qq.com', 'code': 200}
+{'title': 'None', 'url': 'https://a.gdt.qq.com', 'code': 200}
+{'title': '腾讯产品交流', 'url': 'https://support.qq.com', 'code': 200}
+{'title': 'None', 'url': 'https://pingjs.qq.com', 'code': 404}
+{'title': 'QQ空间-分享生活，留住感动', 'url': 'https://imgcache.qq.com', 'code': 200}
+{'title': 'None', 'url': 'http://pinghot.qq.com', 'code': 200}
+{'title': 'QQ互联官网首页', 'url': 'http://connect.qq.com', 'code': 200}
+{'title': '腾讯开放平台|众创空间', 'url': 'http://open.qq.com', 'code': 200}
+{'title': 'QQ游戏开放平台', 'url': 'http://open.qqgame.qq.com', 'code': 200}
+{'title': 'None', 'url': 'http://bbs.open.qq.com', 'code': 200}
+{'title': 'QQ游戏_QQ游戏大全_游戏下载_QQ游戏官网', 'url': 'http://qqgame.qq.com', 'code': 200}
+{'title': 'None', 'url': 'https://log.node.minigame.qq.com', 'code': 200}
+{'title': '403 Forbidden', 'url': 'http://minigame.qq.com', 'code': 403}
+{'title': 'None', 'url': 'http://dldir3.qq.com', 'code': 401}
+{'title': '《QQ游戏》官方论坛 -  Powered by Discuz!', 'url': 'http://qqgame.gamebbs.qq.com', 'code': 200}
