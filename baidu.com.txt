@@ -1,0 +1,251 @@
+{'code': 200, 'url': 'http://www.baidu.com', 'title': '百度一下，你就知道'}
+{'code': 200, 'url': 'http://nsclick.baidu.com', 'title': '页面不存在_百度搜索'}
+{'code': 200, 'url': 'http://jianyi.baidu.com', 'title': '百度用户服务中心-首页'}
+{'code': 200, 'url': 'http://home.baidu.com', 'title': '关于百度'}
+{'code': 200, 'url': 'http://csr.baidu.com', 'title': '百度CSR - 百度CSR'}
+{'code': 200, 'url': 'http://bdimg.share.baidu.com', 'title': '页面不存在_百度搜索'}
+{'code': 200, 'url': 'http://news.baidu.com', 'title': '百度新闻——全球最大的中文新闻平台'}
+{'code': 200, 'url': 'https://zhidao.baidu.com', 'title': '百度知道 - 全球最大中文互动问答平台'}
+{'code': 403, 'url': 'https://gss0.baidu.com', 'title': '403 Forbidden'}
+{'code': 200, 'url': 'http://ikefu.baidu.com', 'title': '糯米智能机器人'}
+{'code': 200, 'url': 'https://ikefu.baidu.com', 'title': '糯米智能机器人'}
+{'code': 200, 'url': 'https://www.baidu.com', 'title': '百度一下，你就知道'}
+{'code': 200, 'url': 'http://map.baidu.com', 'title': '百度地图'}
+{'code': 200, 'url': 'http://image.baidu.com', 'title': '百度图片-发现多彩世界'}
+{'code': 200, 'url': 'http://baike.baidu.com', 'title': '百度百科_全球最大中文百科全书'}
+{'code': 200, 'url': 'https://wenku.baidu.com', 'title': '百度文库――让每个人平等地提升自我'}
+{'code': 200, 'url': 'http://yuedu.baidu.com', 'title': '百度阅读_正版电子书在线阅读'}
+{'code': 200, 'url': 'http://citicbook.baidu.com', 'title': '百度阅读'}
+{'code': 200, 'url': 'http://wk.baidu.com', 'title': '百度文库――让每个人平等地提升自我'}
+{'code': 200, 'url': 'http://youke.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://jiaoyu.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://tiku.baidu.com', 'title': '百度题库_智能考试题库_让每个人都能高效提分的智能题库'}
+{'code': 200, 'url': 'https://tiku.baidu.com', 'title': '百度题库_智能考试题库_让每个人都能高效提分的智能题库'}
+{'code': 200, 'url': 'http://push.zhanzhang.baidu.com', 'title': '页面不存在_百度搜索'}
+{'code': 200, 'url': 'http://qingting.baidu.com', 'title': '百度用户服务中心-首页'}
+{'code': 200, 'url': 'http://ir.baidu.com', 'title': 'Baidu | Investors | Home'}
+{'code': 200, 'url': 'http://baozhang.baidu.com', 'title': '百度保障'}
+{'code': 200, 'url': 'https://sp1.baidu.com', 'title': '百度一下，你就知道'}
+{'code': 200, 'url': 'http://e.baidu.com', 'title': '百度推广 | 用科技让营销更简单'}
+{'code': 200, 'url': 'http://wenku.baidu.com', 'title': '百度文库――让每个人平等地提升自我'}
+{'code': 200, 'url': 'https://eduai.baidu.com', 'title': '百度智慧课堂'}
+{'code': 200, 'url': 'https://eduaiuba.baidu.com', 'title': '页面不存在_百度搜索'}
+{'code': 200, 'url': 'http://tieba.baidu.com', 'title': '百度贴吧——全球最大的中文社区'}
+{'code': 403, 'url': 'https://gss3.baidu.com', 'title': '403 Forbidden'}
+{'code': 200, 'url': 'http://wanba.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'https://imgsa.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://post.baidu.com', 'title': '百度贴吧——全球最大的中文社区'}
+{'code': 200, 'url': 'http://static.tieba.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://music.baidu.com', 'title': '百度音乐-听到极致'}
+{'code': 200, 'url': 'http://y.baidu.com', 'title': '百度音乐人'}
+{'code': 200, 'url': 'http://liulanqi.baidu.com', 'title': '百度浏览器-迅捷 精选 简约'}
+{'code': 200, 'url': 'http://chajian.baidu.com', 'title': '百度浏览器应用中心'}
+{'code': 200, 'url': 'http://vip.liulanqi.baidu.com', 'title': '百度浏览器积分商城 - 兑换特权'}
+{'code': 200, 'url': 'http://musicshow.baidu.com', 'title': '百秀直播-互联网最大的视频娱乐直播平台'}
+{'code': 200, 'url': 'http://lebo.baidu.com', 'title': '乐播'}
+{'code': 200, 'url': 'https://cloud.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://beian.bce.baidu.com', 'title': '百度云-登录'}
+{'code': 200, 'url': 'https://passport.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://su.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'https://liulanqi.baidu.com', 'title': '百度浏览器-迅捷 精选 简约'}
+{'code': 200, 'url': 'http://tongji.baidu.com', 'title': '百度统计——最大的中文网站分析平台'}
+{'code': 200, 'url': 'https://aq.baidu.com', 'title': '百度账户安全中心'}
+{'code': 200, 'url': 'http://cas.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://aq.baidu.com', 'title': '百度账户安全中心'}
+{'code': 200, 'url': 'https://cas.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://datamarket.baidu.com', 'title': '百度数据市场'}
+{'code': 200, 'url': 'http://di.baidu.com', 'title': '百度数智平台——百度大数据智能力量'}
+{'code': 200, 'url': 'http://ai.baidu.com', 'title': '百度AI开放平台-全球领先的人工智能服务平台'}
+{'code': 200, 'url': 'http://fanyi-api.baidu.com', 'title': '百度翻译开放平台'}
+{'code': 200, 'url': 'http://developer.baidu.com', 'title': '百度开发者中心-汇聚、开放、助力、共赢'}
+{'code': 200, 'url': 'http://open.duer.baidu.com', 'title': 'DuerOS开放平台'}
+{'code': 200, 'url': 'https://ai.baidu.com', 'title': '百度AI开放平台-全球领先的人工智能服务平台'}
+{'code': 200, 'url': 'https://di.baidu.com', 'title': '百度数智平台——百度大数据智能力量'}
+{'code': 200, 'url': 'https://u.baidu.com', 'title': '百度用户中心'}
+{'code': 200, 'url': 'http://u.baidu.com', 'title': '百度用户中心'}
+{'code': 200, 'url': 'http://www2.baidu.com', 'title': '百度推广'}
+{'code': 403, 'url': 'http://dl.client.baidu.com', 'title': '403 Forbidden'}
+{'code': 200, 'url': 'http://zhongbao.baidu.com', 'title': '百度众包平台'}
+{'code': 200, 'url': 'http://mtc.baidu.com', 'title': '百度移动云测试中心 | MTC - 流畅 快速 权威'}
+{'code': 200, 'url': 'http://app.baidu.com', 'title': '百度移动开放平台'}
+{'code': 200, 'url': 'http://shouji.baidu.com', 'title': '手机助手_百度手机助手电脑安卓版下载_百度手机助手'}
+{'code': 200, 'url': 'http://help.baidu.com', 'title': '百度用户服务中心-首页'}
+{'code': 200, 'url': 'https://mobile.baidu.com', 'title': '百度手机助手_有颜又有货的应用商店'}
+{'code': 200, 'url': 'http://imgsrc.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'https://shouji.baidu.com', 'title': '手机助手_百度手机助手电脑安卓版下载_百度手机助手'}
+{'code': 403, 'url': 'http://p.gdown.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://iv.baidu.com', 'title': '百度智能汽车事业部'}
+{'code': 200, 'url': 'http://che.baidu.com', 'title': '百度车联网'}
+{'code': 200, 'url': 'https://mtj.baidu.com', 'title': '百度移动统计|移动应用APP统计|android统计分析|iOS统计分析'}
+{'code': 200, 'url': 'http://retail.baidu.com', 'title': '零售大数据智能平台'}
+{'code': 200, 'url': 'http://mtj.baidu.com', 'title': '百度移动统计|移动应用APP统计|android统计分析|iOS统计分析'}
+{'code': 200, 'url': 'http://lvshi.baidu.com', 'title': '百度律师(lvshi.baidu.com)法律服务一站式平台_公司注册_商标注册_纠纷调解_律师在线咨询'}
+{'code': 200, 'url': 'http://service.law.baidu.com', 'title': '页面不存在_百度搜索'}
+{'code': 200, 'url': 'http://passport.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://test.baidu.com', 'title': '百度众测 | 众包任务平台'}
+{'code': 200, 'url': 'http://gimg.baidu.com', 'title': '页面不存在_百度搜索'}
+{'code': 200, 'url': 'https://developer.baidu.com', 'title': '百度开发者中心-汇聚、开放、助力、共赢'}
+{'code': 200, 'url': 'https://dueros.baidu.com', 'title': 'DuerOS'}
+{'code': 200, 'url': 'http://prometheus.baidu.com', 'title': 'DuerOS普罗米修斯计划'}
+{'code': 200, 'url': 'http://developer.dueros.baidu.com', 'title': 'DuerOS开放平台'}
+{'code': 200, 'url': 'https://chatflow.dueros.baidu.com', 'title': 'KITT · Chatflow'}
+{'code': 200, 'url': 'https://baike.baidu.com', 'title': '百度百科_全球最大中文百科全书'}
+{'code': 200, 'url': 'https://aikefu.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'https://developer.dueros.baidu.com', 'title': 'DuerOS开放平台'}
+{'code': 200, 'url': 'https://zaijia.baidu.com', 'title': '小度在家官方网站'}
+{'code': 404, 'url': 'https://fxgate.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'https://bit.baidu.com', 'title': '百度技术学院 - 百度技术让你更强  '}
+{'code': 200, 'url': 'http://idl.baidu.com', 'title': 'Baidu Research | Artificial Intelligence | Deep Learning | Image Recognition | Speech Recognition'}
+{'code': 200, 'url': 'http://research.baidu.com', 'title': 'Baidu Research | Artificial Intelligence | Deep Learning | Image Recognition | Speech Recognition'}
+{'code': 200, 'url': 'http://bit.baidu.com', 'title': '百度技术学院 - 百度技术让你更强  '}
+{'code': 200, 'url': 'http://renzheng.baidu.com', 'title': '百度认证官方网站|个人认证|企业认证|讲师认证|学习与培训'}
+{'code': 200, 'url': 'http://bim.baidu.com', 'title': '百度营销研究院官方网站'}
+{'code': 200, 'url': 'http://sem.baidu.com', 'title': '百度认证官方网站|个人认证|企业认证|讲师认证|学习与培训'}
+{'code': 200, 'url': 'http://bdp.baidu.com', 'title': '百度数智平台——百度大数据智能力量'}
+{'code': 200, 'url': 'https://chuanke.baidu.com', 'title': '学知识，上百度传课'}
+{'code': 403, 'url': 'http://ckdownload.baidu.com', 'title': '403 Forbidden'}
+{'code': 500, 'url': 'https://ckpass.baidu.com', 'title': 'Error'}
+{'code': 200, 'url': 'https://ckzt.baidu.com', 'title': '百度传课精品课，中国教育领域新兴的在线学习课程'}
+{'code': 403, 'url': 'https://ckimg.baidu.com', 'title': '403 Forbidden'}
+{'code': 403, 'url': 'http://ckimg.baidu.com', 'title': '403 Forbidden'}
+{'code': 200, 'url': 'http://kk.baidu.com', 'title': ''}
+{'code': 403, 'url': 'https://ckres.baidu.com', 'title': '403 Forbidden'}
+{'code': 200, 'url': 'https://kk.baidu.com', 'title': ''}
+{'code': 200, 'url': 'http://chuanke.baidu.com', 'title': '学知识，上百度传课'}
+{'code': 500, 'url': 'http://ckpass.baidu.com', 'title': 'Error'}
+{'code': 200, 'url': 'http://ckzt.baidu.com', 'title': '百度传课精品课，中国教育领域新兴的在线学习课程'}
+{'code': 200, 'url': 'http://ents.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'https://app.baidu.com', 'title': '百度移动开放平台'}
+{'code': 200, 'url': 'http://ticket.bce.baidu.com', 'title': '百度云-登录'}
+{'code': 200, 'url': 'https://fanyi-api.baidu.com', 'title': '百度翻译开放平台'}
+{'code': 200, 'url': 'http://fanyi.baidu.com', 'title': '百度翻译'}
+{'code': 403, 'url': 'http://appcdn.fanyi.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://api.fanyi.baidu.com', 'title': '百度翻译开放平台'}
+{'code': 200, 'url': 'https://su.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://ssp.baidu.com', 'title': '百度SSP媒体服务'}
+{'code': 200, 'url': 'http://dmp.baidu.com', 'title': '百度DMP智选'}
+{'code': 200, 'url': 'http://yingxiao.baidu.com', 'title': '首页-百度营销中心'}
+{'code': 200, 'url': 'https://yingxiao.baidu.com', 'title': '首页-百度营销中心'}
+{'code': 200, 'url': 'http://buyer.bes.baidu.com', 'title': '我是需求方 - 我是发布方_BES百度流量交易服务'}
+{'code': 200, 'url': 'http://bes.baidu.com', 'title': 'BES百度流量交易服务'}
+{'code': 200, 'url': 'https://login.bce.baidu.com', 'title': '百度云-登录'}
+{'code': 200, 'url': 'http://musicopen.baidu.com', 'title': '百度音乐资源合作开放平台'}
+{'code': 200, 'url': 'https://gsp0.baidu.com', 'title': '百度一下，你就知道      '}
+{'code': 200, 'url': 'http://mp3.baidu.com', 'title': '百度音乐-听到极致'}
+{'code': 200, 'url': 'http://hi.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://zhiqiu.baidu.com', 'title': '知秋云客服'}
+{'code': 200, 'url': 'https://zhiqiu.baidu.com', 'title': '知秋云客服'}
+{'code': 200, 'url': 'https://im.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://top.baidu.com', 'title': '百度搜索风云榜'}
+{'code': 200, 'url': 'http://gaokao.baidu.com', 'title': '百度题库_智能考试题库_让每个人都能高效提分的智能题库'}
+{'code': 200, 'url': 'https://jiaoyu.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://eduai.baidu.com', 'title': '百度智慧课堂'}
+{'code': 200, 'url': 'https://yuedu.baidu.com', 'title': '百度阅读_正版电子书在线阅读'}
+{'code': 200, 'url': 'http://hm.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://l.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://mobile.baidu.com', 'title': '百度手机助手_有颜又有货的应用商店'}
+{'code': 200, 'url': 'http://o.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://yd.baidu.com', 'title': '百度阅读'}
+{'code': 200, 'url': 'http://m.baidu.com', 'title': '百度一下'}
+{'code': 200, 'url': 'https://sv.baidu.com', 'title': '好看视频'}
+{'code': 200, 'url': 'http://c.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'https://voice.baidu.com', 'title': '百度语音搜索'}
+{'code': 200, 'url': 'https://waimai.baidu.com', 'title': '百度外卖'}
+{'code': 200, 'url': 'https://static.waimai.baidu.com', 'title': 'Welcome to nginx!'}
+{'code': 200, 'url': 'https://stc1.waimai.baidu.com', 'title': 'Welcome to nginx!'}
+{'code': 200, 'url': 'https://stc0.waimai.baidu.com', 'title': 'Welcome to nginx!'}
+{'code': 200, 'url': 'http://waimai.baidu.com', 'title': '百度外卖'}
+{'code': 403, 'url': 'https://s.waimai.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://jing.baidu.com', 'title': '百度 H5 - 真正免费的 H5 页面制作平台'}
+{'code': 200, 'url': 'http://h5.baidu.com', 'title': '百度 H5'}
+{'code': 200, 'url': 'http://iot.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://ufosdk.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://m.news.baidu.com', 'title': '百度新闻——全球最大的中文新闻平台'}
+{'code': 404, 'url': 'https://log.news.baidu.com', 'title': '404 - Not Found'}
+{'code': 200, 'url': 'https://news.baidu.com', 'title': '百度新闻——全球最大的中文新闻平台'}
+{'code': 200, 'url': 'http://newsalert.baidu.com', 'title': '百度新闻搜索_邮件新闻订阅'}
+{'code': 200, 'url': 'http://img.baidu.com', 'title': '页面不存在_百度搜索'}
+{'code': 200, 'url': 'https://baijia.baidu.com', 'title': '首页-百家号'}
+{'code': 200, 'url': 'http://hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://app.news.baidu.com', 'title': '百度新闻客户端—新鲜海量资讯，精准个性推荐'}
+{'code': 403, 'url': 'http://bos.nj.bpc.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://wappass.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://zhifu.baidu.com', 'title': '百度钱包－链接不存在'}
+{'code': 200, 'url': 'http://tousu.baidu.com', 'title': '百度用户服务中心-首页'}
+{'code': 200, 'url': 'http://8.baidu.com', 'title': '百度理财 - 安全、专业、全面的综合金融服务平台'}
+{'code': 200, 'url': 'https://8.baidu.com', 'title': '百度理财 - 安全、专业、全面的综合金融服务平台'}
+{'code': 200, 'url': 'http://1.baidu.com', 'title': '百度钱包&nbsp;|&nbsp;1分钱专享'}
+{'code': 200, 'url': 'https://qianbao.baidu.com', 'title': '百度钱包'}
+{'code': 200, 'url': 'https://qian.baidu.com', 'title': '百度钱包'}
+{'code': 200, 'url': 'https://baifubao.baidu.com', 'title': '百度钱包'}
+{'code': 200, 'url': 'https://1.baidu.com', 'title': '百度钱包&nbsp;|&nbsp;1分钱专享'}
+{'code': 200, 'url': 'http://g.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://appwk.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://kuaizhui.baidu.com', 'title': '百度阅读'}
+{'code': 200, 'url': 'http://n.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://q.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://u.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://v.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://a.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 403, 'url': 'https://gss2.baidu.com', 'title': '403 Forbidden'}
+{'code': 200, 'url': 'http://s.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://e.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://t.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://j.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://fexclick.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://b.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://z.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://f.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://k.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'https://yd.baidu.com', 'title': '百度阅读'}
+{'code': 200, 'url': 'http://h.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://d.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://m.hiphotos.baidu.com', 'title': '百度--您的访问出错了'}
+{'code': 200, 'url': 'http://xueshu.baidu.com', 'title': '百度学术 - 保持学习的态度'}
+{'code': 200, 'url': 'http://vse.baidu.com', 'title': 'Welcome to nginx!'}
+{'code': 200, 'url': 'http://s.share.baidu.com', 'title': 'None'}
+{'code': 403, 'url': 'http://i9.baidu.com', 'title': '403 Forbidden'}
+{'code': 200, 'url': 'http://kankan.baidu.com', 'title': '智能安防云'}
+{'code': 200, 'url': 'http://kankan2.baidu.com', 'title': '百度云直播'}
+{'code': 200, 'url': 'http://pan.baidu.com', 'title': '百度网盘，让美好永远陪伴'}
+{'code': 200, 'url': 'http://yun.baidu.com', 'title': '百度网盘，让美好永远陪伴'}
+{'code': 200, 'url': 'https://pan.baidu.com', 'title': '百度网盘，让美好永远陪伴'}
+{'code': 200, 'url': 'https://mo.baidu.com', 'title': '百度App'}
+{'code': 200, 'url': 'http://copyright.baidu.com', 'title': '首页'}
+{'code': 200, 'url': 'http://wq.copyright.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://x.baidu.com', 'title': '智能安防云'}
+{'code': 403, 'url': 'http://t2.baidu.com', 'title': '403 Forbidden'}
+{'code': 200, 'url': 'http://sensearch.baidu.com', 'title': 'None'}
+{'code': 403, 'url': 'http://t3.baidu.com', 'title': '403 Forbidden'}
+{'code': 200, 'url': 'http://xiaodu.baidu.com', 'title': 'DuerOS'}
+{'code': 403, 'url': 'http://sestat.baidu.com', 'title': '403 Forbidden'}
+{'code': 403, 'url': 'http://t12.baidu.com', 'title': '403 Forbidden'}
+{'code': 403, 'url': 'http://t1.baidu.com', 'title': '403 Forbidden'}
+{'code': 200, 'url': 'http://upload.xueshu.baidu.com', 'title': '页面不存在_百度搜索'}
+{'code': 403, 'url': 'http://i8.baidu.com', 'title': '403 Forbidden'}
+{'code': 200, 'url': 'http://api.map.baidu.com', 'title': '页面不存在_百度搜索'}
+{'code': 403, 'url': 'http://i7.baidu.com', 'title': '403 Forbidden'}
+{'code': 403, 'url': 'http://t11.baidu.com', 'title': '403 Forbidden'}
+{'code': 200, 'url': 'http://tag.baidu.com', 'title': 'None'}
+{'code': 403, 'url': 'http://t10.baidu.com', 'title': '403 Forbidden'}
+{'code': 200, 'url': 'http://a.xueshu.baidu.com', 'title': '页面不存在_百度搜索'}
+{'code': 403, 'url': 'http://olime.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://p.qiao.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'https://sp3.baidu.com', 'title': '百度一下，你就知道'}
+{'code': 200, 'url': 'https://sp0.baidu.com', 'title': '百度一下，你就知道'}
+{'code': 200, 'url': 'https://image.baidu.com', 'title': '百度图片-发现多彩世界'}
+{'code': 403, 'url': 'https://timgsa.baidu.com', 'title': '403 Forbidden'}
+{'code': 403, 'url': 'http://timgsa.baidu.com', 'title': '403 Forbidden'}
+{'code': 200, 'url': 'https://p.baidu.com', 'title': '百度派 — 知识，自成一派'}
+{'code': 200, 'url': 'http://p.baidu.com', 'title': '百度派 — 知识，自成一派'}
+{'code': 200, 'url': 'http://jingyan.baidu.com', 'title': '百度经验——实用生活指南'}
+{'code': 200, 'url': 'https://jingyan.baidu.com', 'title': '百度经验——实用生活指南'}
+{'code': 200, 'url': 'http://ciyuanfan.baidu.com', 'title': '次元饭 - 打通次元壁的资讯大师d=====(￣▽￣*)b'}
+{'code': 200, 'url': 'http://innovation.baidu.com', 'title': '百度责任创新计划 - '}
+{'code': 403, 'url': 'http://static.home.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://create.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://quanjing.baidu.com', 'title': '百度全景'}
+{'code': 200, 'url': 'http://pai.baidu.com', 'title': '百度圈景 按下快门，共享视界！---百度全景UGC平台'}
+{'code': 403, 'url': 'http://boscdn.bpc.baidu.com', 'title': 'None'}
+{'code': 200, 'url': 'http://pro.baidu.com', 'title': '首页-百度营销中心'}
+{'code': 200, 'url': 'http://baiduworld.baidu.com', 'title': '2017百度世界'}

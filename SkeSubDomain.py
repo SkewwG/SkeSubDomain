@@ -1,12 +1,14 @@
+# -*- coding: utf-8 -*-
 # 通过爬取主站的链接获取子域
 #!/usr/bin/python
 # author：ske
 # python3
-import  requests
+import requests
 import re
 import chardet
 from optparse import OptionParser
 requests.packages.urllib3.disable_warnings()
+from termcolor import cprint
 
 class getSubDomain:
     def __init__(self, url):
@@ -17,25 +19,50 @@ class getSubDomain:
         self.SubDomainList = [url]     # 子域名列表
         # 域名匹配规则
         self.domain_patten = re.compile('https?:\/\/[^"/]+?\.{url}'.format(url=urlsplit[-2] + "\." + urlsplit[-1]))
+        print(self.domain_patten)
         # 标题匹配规则
         self.title_patten = re.compile('<title>(.*)?</title>')
+        self.url_except = []        # 存放请求异常的url
+        self.result = []
 
     # 开始从主站开始爬取
     def start(self):
-        self.getSubDomain(self.url)
+        self.getSubDomain(self.url, 0)
+
+        # 对异常的url再重新跑一遍
+        print('异常：{}'.format(self.url_except))
+        url_excepts = self.url_except[:]        # 创建一个新的列表。内容是url_except列表里的url
+        for url_except in url_excepts:
+            self.getSubDomain(url_except, 0)
+
+        # 打印所有结果
+        for ret in self.result:
+            print(ret)
 
     # 获取域名列表
-    def getSubDomain(self, url):
+    def getSubDomain(self, url, layer):
+        layer += 1
+
+        # 有些https站请求可以会抛出异常，这里捕获，并将url放入url_except列表里。
         try:
-            res = requests.get(url, headers=self.headers, timeout=5, verify=False)  # 作为一个递归查询
+            res = requests.get(url, headers=self.headers, timeout=5, verify=False)
+        except Exception as e:
+            self.url_except.append(url)     # 将请求异常的url放入url_except列表里。
+            res = None
+
+        try:
             self.code_title(url, res)
             subdomains = list(set(re.findall(self.domain_patten, res.text)))           # 子域名列表,去重结果
+            print(subdomains)
             # 遍历匹配到的所有子域名
             for subdomain in subdomains:
+                print('第【{}】层 : {}'.format(layer, subdomain))
                 # 如果这个子域名之前没添加进列表里
                 if subdomain not in self.SubDomainList:
                     self.SubDomainList.append(subdomain)
-                    self.getSubDomain(subdomain)
+                    self.getSubDomain(subdomain, layer)
+                else:
+                    print('{}已经在列表里'.format(subdomain))
 
         except Exception as e:
             pass
@@ -60,7 +87,8 @@ class getSubDomain:
         except Exception as e:
             result['url'], result['code'], result['title'] = url, code, 'None'
         finally:
-            print(result)
+            cprint(result, 'red')
+            self.result.append(str(result))
             self.save(str(result))
 
     def save(self, result):
@@ -82,7 +110,7 @@ if __name__ == "__main__":
     attentionPlz = """
         请输入主站网址，如：http(s)://www.qq.com
     """
-    print(banner)
+    cprint(banner, 'blue')
     print(attentionPlz)
 
     usage = r'usage : %prog python3 getSubDomain.py -u http://www.qq.com'
@@ -90,3 +118,8 @@ if __name__ == "__main__":
     parse.add_option('-u', '--url', dest='url', type='string', help='url or domain')
     options, args = parse.parse_args()
     getSubDomain(options.url).start()
+
+
+    # url = 'http://www.taobao.com'
+    # getSubDomain(url).start()
+

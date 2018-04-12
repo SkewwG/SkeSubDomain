@@ -1,0 +1,235 @@
+{'url': 'http://www.taobao.com', 'code': 200, 'title': '淘宝网 - 淘！我喜欢'}
+{'url': 'https://game.taobao.com', 'code': 200, 'title': '淘宝游戏'}
+{'url': 'https://consumerservice.taobao.com', 'code': 200, 'title': '服务中心'}
+{'url': 'https://huodong.taobao.com', 'code': 200, 'title': '对不起，您访问的页面不存在！'}
+{'url': 'https://www.taobao.com', 'code': 200, 'title': '淘宝网 - 淘！我喜欢'}
+{'url': 'https://xue.taobao.com', 'code': 200, 'title': '淘宝教育 - 名师互动，网络私教，专业有效'}
+{'url': 'https://i.xue.taobao.com', 'code': 200, 'title': '亲，访问受限了'}
+{'url': 'https://qiang.taobao.com', 'code': 200, 'title': '淘抢购首页- 淘抢购'}
+{'url': 'https://tqg.taobao.com', 'code': 200, 'title': '【聚划算】5亿品质用户精明之选'}
+{'url': 'https://ju.taobao.com', 'code': 200, 'title': '【聚划算】5亿品质用户精明之选'}
+{'url': 'http://ju.taobao.com', 'code': 200, 'title': '【聚划算】5亿品质用户精明之选'}
+{'url': 'http://qiang.taobao.com', 'code': 200, 'title': '淘抢购首页- 淘抢购'}
+{'url': 'http://wms.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'https://login.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'https://survey.taobao.com', 'code': 200, 'title': '你的声音，我们的动力'}
+{'url': 'https://passport.taobao.com', 'code': 200, 'title': '对不起，您访问的页面不存在！'}
+{'url': 'http://pro.taobao.com', 'code': 200, 'title': '阿里妈妈营销产品平台'}
+{'url': 'http://zhitongche.taobao.com', 'code': 200, 'title': '淘宝直通车'}
+{'url': 'http://branding.taobao.com', 'code': 200, 'title': '品销宝'}
+{'url': 'http://dmp.taobao.com', 'code': 200, 'title': '达摩盘营销平台'}
+{'url': 'http://zuanshi.taobao.com', 'code': 200, 'title': '钻石展位营销平台'}
+{'url': 'http://shuyuan.taobao.com', 'code': 200, 'title': '万堂书院'}
+{'url': 'https://alimarket.taobao.com', 'code': 404, 'title': 'None'}
+{'url': 'http://reg.taobao.com', 'code': 200, 'title': '对不起，您访问的页面不存在！'}
+{'url': 'http://amp.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'http://open.taobao.com', 'code': 200, 'title': '淘宝开放平台 - '}
+{'url': 'http://console.open.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'https://open.bbs.taobao.com', 'code': 200, 'title': '淘宝开放平台社区'}
+{'url': 'http://open.bbs.taobao.com', 'code': 200, 'title': '淘宝开放平台社区'}
+{'url': 'http://my.open.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'https://qrlogin.taobao.com', 'code': 200, 'title': '对不起，您访问的页面不存在！'}
+{'url': 'http://service.taobao.com', 'code': 200, 'title': '服务中心'}
+{'url': 'https://open.taobao.com', 'code': 200, 'title': '淘宝开放平台 - '}
+{'url': 'https://tqgfreeway.ju.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'http://tqgfreeway.ju.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'https://rulesale.taobao.com', 'code': 200, 'title': 'index'}
+{'url': 'https://yun.taobao.com', 'code': 200, 'title': '智能生活'}
+{'url': 'https://smart.yun.taobao.com', 'code': 200, 'title': '阿里物联平台-阿里智能'}
+{'url': 'http://smart.yun.taobao.com', 'code': 200, 'title': '阿里物联平台-阿里智能'}
+{'url': 'https://style.taobao.com', 'code': 200, 'title': '腔调2016频道'}
+{'url': 'https://list.taobao.com', 'code': 200, 'title': '淘宝首页行业市场'}
+{'url': 'http://list.taobao.com', 'code': 200, 'title': '淘宝首页行业市场'}
+{'url': 'http://style.taobao.com', 'code': 200, 'title': '腔调2016频道'}
+{'url': 'http://s.taobao.com', 'code': 200, 'title': '淘宝搜索'}
+{'url': 'https://s.taobao.com', 'code': 200, 'title': '淘宝搜索'}
+{'url': 'https://sf.taobao.com', 'code': 200, 'title': ' 司法拍卖 - 阿里拍卖'}
+{'url': 'https://fwpm.taobao.com', 'code': 200, 'title': '资产交易服务'}
+{'url': 'https://q.taobao.com', 'code': 200, 'title': '中国质造'}
+{'url': 'https://service.taobao.com', 'code': 200, 'title': '服务中心'}
+{'url': 'https://wujin.taobao.com', 'code': 200, 'title': '淘宝五金行业市场'}
+{'url': 'https://gongyi.taobao.com', 'code': 200, 'title': '淘宝公益，亲的公益'}
+{'url': 'https://yingxiao.taobao.com', 'code': 200, 'title': '淘营销-淘宝官方营销活动中心'}
+{'url': 'https://infob.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'http://tejia.taobao.com', 'code': 200, 'title': '天天特价PC'}
+{'url': 'https://bbs.taobao.com', 'code': 200, 'title': '淘宝论坛 - 淘宝网'}
+{'url': 'https://ifashion.bbs.taobao.com', 'code': 200, 'title': 'ifashion'}
+{'url': 'https://sycm.bbs.taobao.com', 'code': 200, 'title': '生意参谋'}
+{'url': 'https://zhitongche.bbs.taobao.com', 'code': 200, 'title': '直通车'}
+{'url': 'https://alibao.bbs.taobao.com', 'code': 200, 'title': ' 规蜜社区'}
+{'url': 'https://item.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'https://safe.bbs.taobao.com', 'code': 200, 'title': '阿里安全'}
+{'url': 'https://baobao.bbs.taobao.com', 'code': 200, 'title': '淘宝孕婴童'}
+{'url': 'https://wenshangyou.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'http://wenshangyou.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'https://h5.m.taobao.com', 'code': 200, 'title': '淘宝网触屏版'}
+{'url': 'https://press.taobao.com', 'code': 200, 'title': '阿里小黑板 首页'}
+{'url': 'http://shop110657108.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'http://member1.taobao.com', 'code': 200, 'title': '对不起，您访问的页面不存在！'}
+{'url': 'https://daren.bbs.taobao.com', 'code': 200, 'title': '淘宝达人'}
+{'url': 'https://daxue.taobao.com', 'code': 200, 'title': '淘宝大学 - 阿里巴巴旗下网络营销培训机构，权威、专业的电商知识库'}
+{'url': 'https://i.daxue.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'https://idaxue.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'http://idaxue.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'https://v.daxue.taobao.com', 'code': 200, 'title': '亲，访问受限了'}
+{'url': 'https://izhongchou.taobao.com', 'code': 200, 'title': '对不起，您访问的页面不存在！'}
+{'url': 'https://live.bbs.taobao.com', 'code': 200, 'title': '淘宝直播'}
+{'url': 'https://huodong.m.taobao.com', 'code': 200, 'title': '活动已结束'}
+{'url': 'https://nanzhuang.bbs.taobao.com', 'code': 200, 'title': '淘宝男装官方社区'}
+{'url': 'https://tejia.taobao.com', 'code': 200, 'title': '天天特价PC'}
+{'url': 'http://yingxiao.taobao.com', 'code': 200, 'title': '淘营销-淘宝官方营销活动中心'}
+{'url': 'http://seller.ju.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'http://freeway.ju.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'https://hi.taobao.com', 'code': 200, 'title': '淘宝众筹'}
+{'url': 'http://pics.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'https://neiyi.taobao.com', 'code': 200, 'title': '淘宝内衣-首页'}
+{'url': 'https://pei.taobao.com', 'code': 200, 'title': '配件首页'}
+{'url': 'http://pei.taobao.com', 'code': 200, 'title': '配件首页'}
+{'url': 'https://fang.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'https://sec.taobao.com', 'code': 200, 'title': 'SecurityMatrix'}
+{'url': 'https://rule.taobao.com', 'code': 200, 'title': '淘宝规则'}
+{'url': 'http://rule.taobao.com', 'code': 200, 'title': '淘宝规则'}
+{'url': 'https://index.bbs.taobao.com', 'code': 200, 'title': '淘宝论坛 - 淘宝网'}
+{'url': 'https://rule.bbs.taobao.com', 'code': 200, 'title': '谈规说则'}
+{'url': 'https://hot.bbs.taobao.com', 'code': 200, 'title': '聚焦热点'}
+{'url': 'https://jiyoujia-sell.bbs.taobao.com', 'code': 200, 'title': ' 极有家商家社区'}
+{'url': 'https://qinbaobei.bbs.taobao.com', 'code': 200, 'title': '母婴亲宝贝市场'}
+{'url': 'http://shop116696790.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'http://shop106093814.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'https://zhaopin.taobao.com', 'code': 200, 'title': '淘工作官网-阿里巴巴集团旗下招聘平台_求职_找工作_电商招聘网'}
+{'url': 'https://scenes.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'http://scenes.taobao.com', 'code': 200, 'title': 'None'}
+{'url': 'https://xiangbao.bbs.taobao.com', 'code': 200, 'title': '淘宝箱包官方帮派'}
+{'url': 'https://jiyoujia-zhaoshang.taobao.com', 'code': 200, 'title': '淘宝网商家入驻平台'}
+{'url': 'https://alchemy.taobao.com', 'code': 200, 'title': '对不起，您访问的页面不存在！'}
+{'url': 'https://3hours.taobao.com', 'code': 200, 'title': '3小时'}
+{'url': 'https://maijia.bbs.taobao.com', 'code': 200, 'title': '卖家之声'}
+{'url': 'https://lovetao.bbs.taobao.com', 'code': 200, 'title': '全网举报'}
+{'url': 'https://gongyi.bbs.taobao.com', 'code': 200, 'title': '淘宝公益'}
+{'url': 'https://alimama.bbs.taobao.com', 'code': 200, 'title': '展示营销'}
+{'url': 'https://guizezhongping.bbs.taobao.com', 'code': 200, 'title': '大众评审'}
+-------------------------------------------------------------------------------------
+{'code': 200, 'title': '淘宝网 - 淘！我喜欢', 'url': 'http://www.taobao.com'}
+{'code': 200, 'title': '腔调2016频道', 'url': 'https://style.taobao.com'}
+{'code': 200, 'title': '腔调2016频道', 'url': 'http://style.taobao.com'}
+{'code': 200, 'title': '淘宝网 - 淘！我喜欢', 'url': 'https://www.taobao.com'}
+{'code': 200, 'title': '淘宝教育 - 名师互动，网络私教，专业有效', 'url': 'https://xue.taobao.com'}
+{'code': 200, 'title': '【聚划算】5亿品质用户精明之选', 'url': 'https://ju.taobao.com'}
+{'code': 200, 'title': '【聚划算】5亿品质用户精明之选', 'url': 'http://ju.taobao.com'}
+{'code': 200, 'title': '配件首页', 'url': 'https://pei.taobao.com'}
+{'code': 200, 'title': '配件首页', 'url': 'http://pei.taobao.com'}
+{'code': 200, 'title': '中国质造', 'url': 'https://q.taobao.com'}
+{'code': 200, 'title': '淘宝搜索', 'url': 'http://s.taobao.com'}
+{'url': 'http://www.taobao.com', 'code': 200, 'title': '淘宝网(淘寶網) 全球站'}
+{'url': 'https://h5.m.taobao.com', 'code': 200, 'title': '淘宝网触屏版'}
+{'code': 200, 'url': 'http://www.taobao.com', 'title': '淘宝网(淘寶網) 全球站'}
+{'code': 200, 'url': 'https://h5.m.taobao.com', 'title': '淘宝网触屏版'}
+{'url': 'http://www.taobao.com', 'title': '淘宝网 - 淘！我喜欢', 'code': 200}
+{'url': 'https://style.taobao.com', 'title': '腔调2016频道', 'code': 200}
+{'url': 'https://consumerservice.taobao.com', 'title': '服务中心', 'code': 200}
+{'url': 'https://www.taobao.com', 'title': '淘宝网 - 淘！我喜欢', 'code': 200}
+{'url': 'https://game.taobao.com', 'title': '淘宝游戏', 'code': 200}
+{'url': 'https://s.taobao.com', 'title': '淘宝搜索', 'code': 200}
+{'url': 'https://pei.taobao.com', 'title': '配件首页', 'code': 200}
+{'url': 'http://pei.taobao.com', 'title': '配件首页', 'code': 200}
+{'url': 'https://list.taobao.com', 'title': '淘宝首页行业市场', 'code': 200}
+{'url': 'https://press.taobao.com', 'title': '阿里小黑板 首页', 'code': 200}
+{'url': 'http://shop110657108.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'http://member1.taobao.com', 'title': '对不起，您访问的页面不存在！', 'code': 200}
+{'url': 'https://gongyi.taobao.com', 'title': '淘宝公益，亲的公益', 'code': 200}
+{'url': 'https://service.taobao.com', 'title': '服务中心', 'code': 200}
+{'url': 'https://gongyi.bbs.taobao.com', 'title': '淘宝公益', 'code': 200}
+{'url': 'https://xue.taobao.com', 'title': '淘宝教育 - 名师互动，网络私教，专业有效', 'code': 200}
+{'url': 'https://i.xue.taobao.com', 'title': '亲，访问受限了', 'code': 200}
+{'url': 'https://index.bbs.taobao.com', 'title': '淘宝论坛 - 淘宝网', 'code': 200}
+{'url': 'https://sycm.bbs.taobao.com', 'title': '生意参谋', 'code': 200}
+{'url': 'https://hot.bbs.taobao.com', 'title': '聚焦热点', 'code': 200}
+{'url': 'https://xiangbao.bbs.taobao.com', 'title': '淘宝箱包官方帮派', 'code': 200}
+{'url': 'http://zuanshi.taobao.com', 'title': '钻石展位营销平台', 'code': 200}
+{'url': 'https://safe.bbs.taobao.com', 'title': '阿里安全', 'code': 200}
+{'url': 'https://3hours.taobao.com', 'title': '3小时', 'code': 200}
+{'url': 'https://daren.bbs.taobao.com', 'title': '淘宝达人', 'code': 200}
+{'url': 'https://daxue.taobao.com', 'title': '淘宝大学 - 阿里巴巴旗下网络营销培训机构，权威、专业的电商知识库', 'code': 200}
+{'url': 'https://v.daxue.taobao.com', 'title': '亲，访问受限了', 'code': 200}
+{'url': 'https://zhaopin.taobao.com', 'title': '淘工作官网-阿里巴巴集团旗下招聘平台_求职_找工作_电商招聘网', 'code': 200}
+{'url': 'https://ju.taobao.com', 'title': '【聚划算】5亿品质用户精明之选', 'code': 200}
+{'url': 'http://ju.taobao.com', 'title': '【聚划算】5亿品质用户精明之选', 'code': 200}
+{'url': 'https://idaxue.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'http://idaxue.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'https://survey.taobao.com', 'title': '你的声音，我们的动力', 'code': 200}
+{'url': 'http://service.taobao.com', 'title': '服务中心', 'code': 200}
+{'url': 'https://qrlogin.taobao.com', 'title': '对不起，您访问的页面不存在！', 'code': 200}
+{'url': 'http://open.taobao.com', 'title': '淘宝开放平台 - ', 'code': 200}
+{'url': 'http://console.open.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'http://pro.taobao.com', 'title': '阿里妈妈营销产品平台', 'code': 200}
+{'url': 'http://branding.taobao.com', 'title': '品销宝', 'code': 200}
+{'url': 'http://dmp.taobao.com', 'title': '达摩盘营销平台', 'code': 200}
+{'url': 'https://alimarket.taobao.com', 'title': 'None', 'code': 404}
+{'url': 'http://zhitongche.taobao.com', 'title': '淘宝直通车', 'code': 200}
+{'url': 'https://open.taobao.com', 'title': '淘宝开放平台 - ', 'code': 200}
+{'url': 'https://open.bbs.taobao.com', 'title': '淘宝开放平台社区', 'code': 200}
+{'url': 'http://open.bbs.taobao.com', 'title': '淘宝开放平台社区', 'code': 200}
+{'url': 'http://my.open.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'https://i.daxue.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'https://scenes.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'http://scenes.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'https://izhongchou.taobao.com', 'title': '对不起，您访问的页面不存在！', 'code': 200}
+{'url': 'https://ifashion.bbs.taobao.com', 'title': 'ifashion', 'code': 200}
+{'url': 'https://baobao.bbs.taobao.com', 'title': '淘宝孕婴童', 'code': 200}
+{'url': 'https://h5.m.taobao.com', 'title': '淘宝网触屏版', 'code': 200}
+{'url': 'https://wenshangyou.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'http://wenshangyou.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'https://nanzhuang.bbs.taobao.com', 'title': '淘宝男装官方社区', 'code': 200}
+{'url': 'https://live.bbs.taobao.com', 'title': '淘宝直播', 'code': 200}
+{'url': 'https://huodong.m.taobao.com', 'title': '活动已结束', 'code': 200}
+{'url': 'https://alimama.bbs.taobao.com', 'title': '展示营销', 'code': 200}
+{'url': 'https://rule.taobao.com', 'title': '淘宝规则', 'code': 200}
+{'url': 'https://guizezhongping.bbs.taobao.com', 'title': '大众评审', 'code': 200}
+{'url': 'https://yun.taobao.com', 'title': '智能生活', 'code': 200}
+{'url': 'https://smart.yun.taobao.com', 'title': '阿里物联平台-阿里智能', 'code': 200}
+{'url': 'http://smart.yun.taobao.com', 'title': '阿里物联平台-阿里智能', 'code': 200}
+{'url': 'https://fang.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'https://sec.taobao.com', 'title': 'SecurityMatrix', 'code': 200}
+{'url': 'https://q.taobao.com', 'title': '中国质造', 'code': 200}
+{'url': 'https://qiang.taobao.com', 'title': '淘抢购首页- 淘抢购', 'code': 200}
+{'url': 'https://tqg.taobao.com', 'title': '【聚划算】5亿品质用户精明之选', 'code': 200}
+{'url': 'http://qiang.taobao.com', 'title': '淘抢购首页- 淘抢购', 'code': 200}
+{'url': 'https://tqgfreeway.ju.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'http://tqgfreeway.ju.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'http://wms.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'https://rulesale.taobao.com', 'title': 'index', 'code': 200}
+{'url': 'https://wujin.taobao.com', 'title': '淘宝五金行业市场', 'code': 200}
+{'url': 'http://style.taobao.com', 'title': '腔调2016频道', 'code': 200}
+{'url': 'http://list.taobao.com', 'title': '淘宝首页行业市场', 'code': 200}
+{'url': 'http://s.taobao.com', 'title': '淘宝搜索', 'code': 200}
+{'url': 'https://neiyi.taobao.com', 'title': '淘宝内衣-首页', 'code': 200}
+{'url': 'http://shop106093814.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'http://shop116696790.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'https://login.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'https://huodong.taobao.com', 'title': '对不起，您访问的页面不存在！', 'code': 200}
+{'url': 'https://rule.bbs.taobao.com', 'title': '谈规说则', 'code': 200}
+{'url': 'https://yingxiao.taobao.com', 'title': '淘营销-淘宝官方营销活动中心', 'code': 200}
+{'url': 'https://alchemy.taobao.com', 'title': '对不起，您访问的页面不存在！', 'code': 200}
+{'url': 'http://yingxiao.taobao.com', 'title': '淘营销-淘宝官方营销活动中心', 'code': 200}
+{'url': 'https://infob.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'http://infob.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'http://tejia.taobao.com', 'title': '天天特价PC', 'code': 200}
+{'url': 'https://tejia.taobao.com', 'title': '天天特价PC', 'code': 200}
+{'url': 'https://bbs.taobao.com', 'title': '淘宝论坛 - 淘宝网', 'code': 200}
+{'url': 'https://hi.taobao.com', 'title': '淘宝众筹', 'code': 200}
+{'url': 'http://pics.taobao.com', 'title': '403 Forbidden', 'code': 403}
+{'url': 'https://alibao.bbs.taobao.com', 'title': ' 规蜜社区', 'code': 200}
+{'url': 'https://item.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'https://zhitongche.bbs.taobao.com', 'title': '直通车', 'code': 200}
+{'url': 'https://maijia.bbs.taobao.com', 'title': '卖家之声', 'code': 200}
+{'url': 'https://lovetao.bbs.taobao.com', 'title': '全网举报', 'code': 200}
+{'url': 'http://reg.taobao.com', 'title': '对不起，您访问的页面不存在！', 'code': 200}
+{'url': 'https://passport.taobao.com', 'title': '对不起，您访问的页面不存在！', 'code': 200}
+{'url': 'http://shuyuan.taobao.com', 'title': '万堂书院', 'code': 200}
+{'url': 'http://amp.taobao.com', 'title': 'None', 'code': 200}
+{'url': 'https://jiyoujia-sell.bbs.taobao.com', 'title': ' 极有家商家社区', 'code': 200}
+{'url': 'https://qinbaobei.bbs.taobao.com', 'title': '母婴亲宝贝市场', 'code': 200}
+{'url': 'http://rule.taobao.com', 'title': '淘宝规则', 'code': 200}
+{'url': 'https://sf.taobao.com', 'title': ' 司法拍卖 - 阿里拍卖', 'code': 200}
+{'url': 'https://fwpm.taobao.com', 'title': '资产交易服务', 'code': 200}
+-------------------------------------------------------------------------------------------------------------
